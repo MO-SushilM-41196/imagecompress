@@ -12,7 +12,7 @@ const spaceGrotesk = Space_Grotesk({
 });
 
 export const metadata = {
-  title: 'ImageCompress - Free Online Image Compressor',
+  title: 'Sushil Mishra Developer | Free Online Image Compressor',
   description: 'Compress PNG, JPG, and WebP images instantly without losing quality.',
 };
 
